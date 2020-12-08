@@ -1,60 +1,14 @@
 ---
-title: This is my first post
-description: Capitalize on low hanging fruit to identify a ballpark value added
-  activity to beta test. Override the digital divide with additional
-  clickthroughs from DevOps.
-author: Surjith S M
-date: 2020-09-01
+title: RECIPES EMBEDDED, DEVELOPED, AND CREATED WITH ALGORITHMS
+description: Transcend Taste is a digital exploration of how dining is an
+  immersive experience.
+author: Jordan Gray
+date: 2020-09-01T07:00:00.000Z
 tags:
   - left
   - center
   - right
 ---
-# This is a Heading h1
-
-## This is a Heading h2
-
-###### This is a Heading h6
-
-## Emphasis
-
-*This text will be italic*\
-*This will also be italic*
-
-**This text will be bold**\
-**This will also be bold**
-
-*You **can** combine them*
-
-## Lists
-
-### Unordered
-
-* Item 1
-* Item 2
-
-  * Item 2a
-  * Item 2b
-
-### Ordered
-
-1. Item 1
-2. Item 2
-3. Item 3
-
-   1. Item 3a
-   2. Item 3b
-
-## Links
-
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
-
-## Blockquotes
-
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
-> > Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-
-## Inline code
-
-This web site is using `markedjs/marked`.
+Transcend Taste is a digital exploration of how dining is an immersive experience. When people think of dining and food, their cultural and personal preferences are shown. From being a picky eater to collaborations for the betterment of the taste buds. One thing we forget at times is how this entity of object has the ability to make us wonder through both positive and negative connotations, depending on what is being discussed. In our performance/immersive installation, we will be breaking down the dining experience through different lenses. Particularly aiming at the 5 senses while reevaluating the meaning of some of our semantics towards this experience.\
+\
+Through different creative coding environments in conjunction with online spaces meant for exploration, c0d3 kitchen will be showcasing the kitchen in a deconstructed format. Where obejcts and sense will be and will not be how they normally are to promote thinking. A timeless performance that depending on your mood and how you interact with the space will bring upon a different sensation every time. Should be noted, it won't necessarily be a drastic change but one that emulates the ability to feel different, even if eating the same food twice.
