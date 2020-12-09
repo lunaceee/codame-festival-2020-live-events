@@ -1,14 +1,12 @@
 ---
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
-    url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+  - title: "CURIOUSLY MINDED: LIVE CODING SHADERS"
+    date: Dec 12, 2020
+    time: 10am PST
+    type: Stream performance
+    url: "https://codame.com/events/curiously-minded-live-coding-shaders"
+  - title: "New Age Of Renaissance: How to Integrate Art, Science, Technology & AI into Public Spaces"
+    date: Dec 11, 2020
+    time: 10am PST
+    url: "https://codame.com"
+    type: Live Event
