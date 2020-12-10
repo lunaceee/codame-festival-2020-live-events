@@ -1,21 +1,29 @@
-<div class="w-full max-w-2xl grid grid-cols-1 gap-8 my-8 px-4 lg:mx-0 text-white border-gray-200 border mx-2">
+<ul class="w-full max-w-2xl grid grid-cols-1 gap-8 my-8 px-4 lg:mx-0 text-white border-gray-200 border mx-2">
 
     {% if quicklinks.links %}
 
     {% for item in quicklinks.links %}
-    <a href="{{item.url}}" target="_blank" class="p-5 flex flex-col md:flex-row">
-        <h3 class="w-80 mr-4">{{item.title}}
-            →</h3>
+    <li class="p-5 flex flex-col md:flex-row">
+        <h3 class="w-80 mr-4">
+            {% if item.siteurl %}
+            <a href="{{item.siteurl}}" target="_blank">{{item.title}} →</a>
+            {% else %}
+            <div>{{item.title}}</div>
+            {% endif %}
+        </h3>
         <div class="w-40">
             <p class="py-2 font-bold mr-4">{{item.date}}
             </p>
             <p>{{item.time}}</p>
         </div>
 
-        <div class="mt-4 px-4 py-2 bg-pink-600 text-center rounded-md h-10 w-40">Enter event</div>
-    </a>
+        <div class="mt-4 px-4 py-2 bg-pink-600 text-center rounded-md h-10 w-40"><a href="{{item.url}}"
+                target="_blank">Enter
+                event</a>
+        </div>
+    </li>
     {% endfor %}
 
     {% endif %}
 
-</div>
+</ul>

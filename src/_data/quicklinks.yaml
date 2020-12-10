@@ -1,12 +1,73 @@
 ---
 links:
-  - title: "CURIOUSLY MINDED: LIVE CODING SHADERS"
+  - title: "Opening Statements from the Team"
     date: Dec 12, 2020
     time: 10am PST
-    type: Stream performance
-    url: "https://codame.com/events/curiously-minded-live-coding-shaders"
+    url: "https://us02web.zoom.us/j/84743017484?pwd=VFRpMUphNjVxcjRwT01kWWxPZTF1Zz09"
   - title: "New Age Of Renaissance: How to Integrate Art, Science, Technology & AI into Public Spaces"
     date: Dec 11, 2020
     time: 10am PST
+    url: "https://us02web.zoom.us/j/82990013394?pwd=NHNWcVFKTWpkRDZWcVVhVm9mYTNGUT09"
+    siteurl: "https://codame.com/events/how-to-integrate-art-science-technology-ai-into-public-spaces"
+  - title: "Happy Hour"
+    date: Dec 11, 2020
+    time: 5pm PST
+    url: "https://discord.gg/pk3C8DB"
+  - title: "Curiously Minded: Live Coding Shaders"
+    date: Dec 12, 2020
+    time: 10am PST
+    url: "http://twitch.tv/codame"
+    siteurl: "https://codame.com/events/curiously-minded-live-coding-shaders"
+  - title: "modV Audio Visual Live Performance"
+    date: Dec 13, 2020
+    time: 11:30am PST
+    url: "http://twitch.tv/codame"
+    siteurl: "http://codame.com/events/modv-audio-visual-live-performance"
+  - title: "Harddiskmuseum Tour"
+    date: Dec 14, 2020
+    time: 10am PST
+    siteurl: "https://codame.com/events/harddiskmuseum-tour"
+  - title: "Behind The Screens/KnownOrigin/MoCDA"
+    date: Dec 15, 2020
+    time: 12pm PST
     url: "https://codame.com"
-    type: Live Event
+    siteurl: "https://codame.com/events/behind-the-screens-with-sven-eberwein"
+  - title: "AR/VR Art and Storytelling  w/Q&A"
+    date: Dec 16, 2020
+    time: 5:30pm PST
+    url: "https://codame.com"
+    siteurl: "https://codame.com/events/ar-vr-art-and-storytelling"
+  - title: "Scott Kildall/Botanic Quartet"
+    date: Dec 17, 2020
+    time: 6pm PST
+    url: "https://codame.com"
+    siteurl: "https://codame.com/events/botanic-quartet"
+  - title: "GlitchMe Introduction w/D2D"
+    date: Dec 18, 2020
+    time: 10:30am PST
+    url: "https://us02web.zoom.us/j/82990013394?pwd=NHNWcVFKTWpkRDZWcVVhVm9mYTNGUT09"
+    siteurl: "https://codame.com/events/glitch-me-introduction"
+  - title: "Creating VR Music Videos"
+    date: Dec 18, 2020
+    time: 5pm PST
+    url: "https://codame.com"
+    siteurl: "https://codame.com/events/creating-vr-music-videos"
+  - title: "Snip-Synth Talk/Q&A"
+    date: Dec 18, 2020
+    time: 6pm PST
+    url: "https://codame.com"
+    siteurl: "https://codame.com/events/snipsynth-talk"
+  - title: "Transcending Taste in c0d3 kitchen:: Recipes Embedded, Developed and Created with Algorithms"
+    date: Dec 19, 2020
+    time: 10am PST
+    url: "https://us02web.zoom.us/j/82990013394?pwd=NHNWcVFKTWpkRDZWcVVhVm9mYTNGUT09"
+    siteurl: "https://codame.com/events/recipes-embedded-developed-and-created-with-algorithms"
+  - title: "SCLOrk 20x20/Genetic Modified Orchestra"
+    date: Dec 19, 2020
+    time: 8pm PST
+    url: "https://codame.com"
+    siteurl: "https://codame.com/events/sclork-20x20"
+  - title: "Closing / Fireside Chat"
+    date: Dec 20, 2020
+    time: 3pm PST
+    url: "https://us02web.zoom.us/j/84743017484?pwd=VFRpMUphNjVxcjRwT01kWWxPZTF1Zz09"
