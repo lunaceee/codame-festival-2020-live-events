@@ -1,7 +1,5 @@
-<ul class="w-full max-w-2xl grid grid-cols-1 gap-8 my-8 px-4 lg:mx-0 text-white border-gray-200 border mx-2">
-
+<ul class="w-full mb-20 my-8 max-w-2xl grid grid-cols-1 gap-8 px-4 lg:mx-0 text-white border-gray-200 border mx-2">
     {% if quicklinks.links %}
-
     {% for item in quicklinks.links %}
     <li class="p-5 flex flex-col md:flex-row">
         <h3 class="w-80 mr-4">
@@ -11,19 +9,26 @@
             <div>{{item.title}}</div>
             {% endif %}
         </h3>
+        {% if item.type %}
+        <p class="py-2 font-bold mr-4">{{item.type}}
+        </p>
+        {% else %}
         <div class="w-40">
             <p class="py-2 font-bold mr-4">{{item.date}}
             </p>
             <p>{{item.time}}</p>
         </div>
-
-        <div class="mt-4 px-4 py-2 bg-pink-600 text-center rounded-md h-10 w-40"><a href="{{item.url}}"
-                target="_blank">Enter
-                event</a>
+        {% endif %}
+        <div class="mt-4 px-4 py-2 bg-pink-600 text-center rounded-md h-10 md:min-w-0 min-w-full w-56"><a
+                href="{{item.url}}" target="_blank">
+                {% if item.type %}
+                View experience
+                {% else %}
+                Enter event
+                {% endif %}
+            </a>
         </div>
     </li>
     {% endfor %}
-
     {% endif %}
-
 </ul>
