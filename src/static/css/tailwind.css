@@ -9,12 +9,36 @@
     @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;
   }
 
-  h2 {
-    @apply text-2xl tracking-tighter mb-3 text-center lg:text-7xl;
-  }
-
   h3 {
     @apply text-lg font-bold mb-3;
   }
 
+  h4, h5, h6 {
+    @apply text-2xl tracking-tighter mb-3 text-center lg:text-7xl my-4;
+  }
 }
+
+h4.workshops {
+  display: none;
+}
+
+h5.live-events {
+  display: none;
+}
+
+h6.anytime {
+  display: none;
+}
+
+h4.workshops:first-of-type {
+  display: block;
+}
+
+h5.live-events:first-of-type {
+  display: block;
+}
+
+h6.anytime:first-of-type {
+  display: block;
+}
+

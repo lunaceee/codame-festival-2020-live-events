@@ -1,18 +1,16 @@
-<ul class="w-full mb-20 my-8 max-w-4xl px-4 text-white border-gray-200 border">
+<ul class="w-full mb-20 my-8 max-w-3xl px-4 text-white border-gray-200 border">
     {% if quicklinks.links %}
     {% for item in quicklinks.links %}
+    {% if item.type == "Live event"%}
+    <h5 class="live-events">Live events</h5>
     <li class="p-5 flex flex-col md:flex-row md:items-center justify-evenly border-b">
         <h3 class="w-64 mr-4 md:self-center">
             {% if item.siteurl %}
-            <a href="{{item.siteurl}}" target="_blank">{{item.title}} →</a>
+            <a href="{{item.siteurl}}" target="_blank" class="hover:text-pink-500">{{item.title}} →</a>
             {% else %}
             <div>{{item.title}}</div>
             {% endif %}
         </h3>
-        {% if item.type %}
-        <p class="py-2 font-bold mr-4">{{item.type}}
-        </p>
-        {% endif %}
         {% if item.date %}
         <div class="w-40">
             <p class="py-2 font-bold mr-4">{{item.date}}
@@ -22,16 +20,34 @@
         {% endif %}
         <div class="mt-4 md:mt-0 px-4 py-2 bg-pink-600 text-center rounded-md h-10 md:min-w-0 min-w-full w-56"><a
                 href="{{item.url}}" target="_blank">
-                {% if item.type == "Workshop" %}
-                Join workshop
-                {% elif item.type == "Anytime Experience" %}
-                View project
-                {% else %}
                 Enter event
-                {% endif %}
             </a>
         </div>
     </li>
+    {% else %}
+    <h6 class="anytime">Anytime experiences</h6>
+    <li class="p-5 flex flex-col md:flex-row md:items-center justify-evenly border-b">
+        <h3 class="w-64 mr-4 md:self-center">
+            {% if item.siteurl %}
+            <a href="{{item.siteurl}}" target="_blank" class="hover:text-pink-500">{{item.title}} →</a>
+            {% else %}
+            <div>{{item.title}}</div>
+            {% endif %}
+        </h3>
+        {% if item.date %}
+        <div class="w-40">
+            <p class="py-2 font-bold mr-4">{{item.date}}
+            </p>
+            <p>{{item.time}}</p>
+        </div>
+        {% endif %}
+        <div class="mt-4 md:mt-0 px-4 py-2 bg-pink-600 text-center rounded-md h-10 md:min-w-0 min-w-full w-56"><a
+                href="{{item.url}}" target="_blank">
+                View experience
+            </a>
+        </div>
+    </li>
+    {% endif %}
     {% endfor %}
     {% endif %}
 </ul>
