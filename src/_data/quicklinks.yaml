@@ -1,82 +1,105 @@
 ---
 links:
-  - title: "Opening Statements from the Team"
-    date: Dec 12, 2020
-    time: 10am PST
-    url: "https://us02web.zoom.us/j/84743017484?pwd=VFRpMUphNjVxcjRwT01kWWxPZTF1Zz09"
+  - date: Dec 13, 2020
+    time: 3pm PST
+    type: Live event
+    title: "Festival Grounds Opening"
+    siteurl: https://codame.com/events/festival-grounds-opening
+    url: https://zoom.us/j/99933089822?pwd=WE15bldNNnhLaUVja01vczZ5NFNQUT09
   - title: "New Age Of Renaissance: How to Integrate Art, Science, Technology & AI into Public Spaces"
     date: Dec 11, 2020
     time: 10am PST
-    url: "https://us02web.zoom.us/j/82990013394?pwd=NHNWcVFKTWpkRDZWcVVhVm9mYTNGUT09"
-    siteurl: "https://codame.com/events/how-to-integrate-art-science-technology-ai-into-public-spaces"
+    type: Live event
+    url: https://zoom.us/j/99933089822?pwd=WE15bldNNnhLaUVja01vczZ5NFNQUT09
+    siteurl: https://codame.com/events/how-to-integrate-art-science-technology-ai-into-public-spaces
   - title: "Happy Hour"
     date: Dec 11, 2020
     time: 5pm PST
+    type: Live event
     url: "https://discord.gg/pk3C8DB"
+  - date: Dec 16, 2020
+    time: 10am PST
+    type: Live Event
+    title: Async Cryptovoxels Tour
+    siteurl: 
+    url: https://www.cryptovoxels.com/play?coords=N@156E,255S
   - title: "Curiously Minded: Live Coding Shaders"
     date: Dec 12, 2020
     time: 10am PST
+    type: Live event
     url: "http://twitch.tv/codame"
     siteurl: "https://codame.com/events/curiously-minded-live-coding-shaders"
   - title: "modV Audio Visual Live Performance"
     date: Dec 13, 2020
     time: 11:30am PST
+    type: Live event
     url: "http://twitch.tv/codame"
     siteurl: "http://codame.com/events/modv-audio-visual-live-performance"
   - title: "Harddiskmuseum Tour"
     date: Dec 14, 2020
     time: 10am PST
+    type: Live event
     siteurl: "https://codame.com/events/harddiskmuseum-tour"
+    url: https://zoom.us/j/99933089822?pwd=WE15bldNNnhLaUVja01vczZ5NFNQUT09
   - title: "Behind The Screens/KnownOrigin/MoCDA"
     date: Dec 15, 2020
     time: 12pm PST
+    type: Live event
     url: "https://codame.com"
-    siteurl: "https://codame.com/events/behind-the-screens-with-sven-eberwein"
+    siteurl: https://codame.com/events/behind-the-screens-with-sven-eberwein
   - title: "AR/VR Art and Storytelling  w/Q&A"
     date: Dec 16, 2020
     time: 5:30pm PST
-    url: "https://codame.com"
+    type: Live event
+    url: https://zoom.us/j/99933089822?pwd=WE15bldNNnhLaUVja01vczZ5NFNQUT09
     siteurl: "https://codame.com/events/ar-vr-art-and-storytelling"
   - title: "Scott Kildall/Botanic Quartet"
     date: Dec 17, 2020
     time: 6pm PST
-    url: "https://codame.com"
-    siteurl: "https://codame.com/events/botanic-quartet"
+    type: Live event
+    url: http://twitch.tv/codame
+    siteurl: https://codame.com/events/botanic-quartet
   - title: "GlitchMe Introduction w/D2D"
     date: Dec 18, 2020
     time: 10:30am PST
-    url: "https://us02web.zoom.us/j/82990013394?pwd=NHNWcVFKTWpkRDZWcVVhVm9mYTNGUT09"
-    siteurl: "https://codame.com/events/glitch-me-introduction"
+    type: Live event
+    url: https://zoom.us/j/99933089822?pwd=WE15bldNNnhLaUVja01vczZ5NFNQUT09
+    siteurl: https://codame.com/events/glitch-me-introduction
   - title: "Creating VR Music Videos"
     date: Dec 18, 2020
     time: 5pm PST
-    url: "https://codame.com"
-    siteurl: "https://codame.com/events/creating-vr-music-videos"
+    type: Live event
+    url: https://account.altvr.com/events/1619964544849805355
+    siteurl: https://codame.com/events/creating-vr-music-videos
   - title: "Snip-Synth Talk/Q&A"
     date: Dec 18, 2020
     time: 6pm PST
-    url: "https://codame.com"
-    siteurl: "https://codame.com/events/snipsynth-talk"
+    type: Live event
+    url: https://zoom.us/j/99933089822?pwd=WE15bldNNnhLaUVja01vczZ5NFNQUT09
+    siteurl: https://codame.com/events/snipsynth-talk
   - title: "Transcending Taste in c0d3 kitchen:: Recipes Embedded, Developed and Created with Algorithms"
     date: Dec 19, 2020
     time: 10am PST
-    url: "https://us02web.zoom.us/j/82990013394?pwd=NHNWcVFKTWpkRDZWcVVhVm9mYTNGUT09"
-    siteurl: "https://codame.com/events/recipes-embedded-developed-and-created-with-algorithms"
+    type: Live event
+    url: https://zoom.us/j/99933089822?pwd=WE15bldNNnhLaUVja01vczZ5NFNQUT09
+    siteurl: https://codame.com/projects/transcending-taste-in-c0d3-kitchen
   - title: "SCLOrk 20x20/Genetic Modified Orchestra"
     date: Dec 19, 2020
     time: 8pm PST
-    url: "https://codame.com"
-    siteurl: "https://codame.com/events/sclork-20x20"
+    type: Live event
+    url: http://twitch.tv/codame
+    siteurl: https://codame.com/events/sclork-20x20
   - title: "Closing / Fireside Chat"
     date: Dec 20, 2020
     time: 3pm PST
-    url: "https://us02web.zoom.us/j/84743017484?pwd=VFRpMUphNjVxcjRwT01kWWxPZTF1Zz09"
+    type: Live event
+    url: https://zoom.us/j/99933089822?pwd=WE15bldNNnhLaUVja01vczZ5NFNQUT09
   - title: "Minecraft Gallery"
     type: "Anytime Experience"
-    url: "https://codame.com/projects/minecraft-art-tech-gallery"
+    url: 75.127.13.98:26683
   - title: "Nexus"
     type: "Anytime Experience"
-    url: "https://codame.com/projects/nexus"
+    url: https://forms.gle/DWthdfRsPZ6c4wV57
   - title: "Cangjie's Poetry"
     type: "Anytime Experience"
     url: "http://codame.com/projects/cangjie-s-poetry"
@@ -85,25 +108,25 @@ links:
     url: "http://codame.com/projects/m-carbon-dioxide"
   - title: "Cosmos"
     type: "Anytime Experience"
-    url: "http://codame.com/projects/cosmos"
+    url: http://www.plus360degrees.com/codame/galaxy/
   - title: "VR Music Videos"
     type: "Anytime Experience"
     url: "https://codame.com/projects/vr-music-videos"
-  - title: "Regalia, Chromology, Pilgrimage"
+  - title: Regalia
     type: "Anytime Experience"
-    url: "https://codame.com/events/regalia-chromology-and-pilgrimage"
+    url: https://nurecas.github.io/regalia/
   - title: "Harddiskmuseum"
     type: "Anytime Experience"
-    url: "https://codame.com/projects/harddiskmuseum"
+    url: space.harddiskmuseum.com
   - title: "Secrets Exchange"
     type: "Anytime Experience"
-    url: "https://codame.com/projects/secrets-exchange-crypto-art-generator"
+    url: www.secrets.exchange
   - title: "I DON'T KNOW. LOOK AT IT."
     type: "Anytime Experience"
-    url: "https://codame.com/projects/i-don-t-know-look-at-it"
+    url: https://newart.city/show/i-dont-know-look-at-it
   - title: "Paras Digital Art Cards"
     type: "Anytime Experience"
-    url: ""
+    url: https://paras.id/codame.near
   - title: "Glitch-Me"
     type: "Anytime Experience"
     url: "https://codame.com/projects/glitch-me"
@@ -115,10 +138,44 @@ links:
     url: "https://codame.com/projects/spaces-gallery"
   - title: "Visual Poetry"
     type: "Anytime Experience"
-    url: ""
-  - title: "Loopbomb"
+    url: https://newart.city/show/codame-festival
+  - title: Async Art - Cryptovoxels Gallery
     type: "Anytime Experience"
-    url: ""
-  - title: "YourWorldOfText"
+    url: https://www.cryptovoxels.com/play?coords=N@156E,255S
+  - title: Marc-O-Matic
     type: "Anytime Experience"
-    url: ""
+    url: https://newart.city/show/codame-festival
+  - title: JOYNT Sizzle Video Reel
+    type: "Anytime Experience"
+    url: https://newart.city/show/codame-festival
+  - title: GLITCH ME
+    type: "Anytime Experience"
+    url: https://glitch-me-on.glitch.me/contacts/
+  - title: M Carbon Dioxide. 
+    type: "Anytime Experience"
+    url: http://codame.com/projects/m-carbon-dioxide
+  - title: Newart City
+    type: "Anytime Experience"
+    url: http://newart.city/show/codame 
+  - title: Codame Shop
+    type: "Anytime Experience"
+    url: shop.codame.com
+  - title: Chromology
+    type: "Anytime Experience"
+    url: https://nurecas.github.io/chromology/
+  - title: Pilgrimage
+    type: "Anytime Experience"
+    url: https://nurecas.com/pilgrimage
+  - title: VR music videos 1 - Oculus streaming
+    type: "Anytime Experience"
+    url: https://creator.oculus.com/community/802877400141713/
+  - title: VR music videos 2 - Conrad Greenleaf
+    type: "Anytime Experience"
+    url: https://vimeo.com/showcase/7186556/video/462300021
+  - title: VR music videos 3 - Richard in Your Mind
+    type: "Anytime Experience"
+    url: https://vimeo.com/showcase/7186556/video/324772078
+  - title: VR music videos 4 - Vape Dadz
+    type: "Anytime Experience"
+    url: https://vimeo.com/showcase/7186556/video/423907927
+  
